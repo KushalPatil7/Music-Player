@@ -1,0 +1,11 @@
+/* .App{
+  background-color: black;
+} */
+.card-container {
+  display: flex;
+  justify-content: space-around; /* Adjust as needed */
+}
+.new-releases-heading {
+  text-align: center;
+  margin-top: 20px; /* Add padding from the top */
+}
